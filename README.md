@@ -3,6 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crinfarr&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Currently working on:
-* The Iron Queen (TBA)
-* E.T.HS (beta)
+* Coding for my job (finally)
+* Whatever weird side projects I make (watch my blog)
+* creating a url shortener @ [crinfarr.zip](https://crinfarr.zip)
 * Blogging @ [crinfarr.io](https://crinfarr.io)

@@ -5,5 +5,5 @@
 Currently working on:
 * Coding for my job (finally)
 * Whatever weird side projects I make (watch my blog)
-* creating a url shortener @ [crinfarr.zip](https://crinfarr.zip)
+* Bringing back laser tag (for real)
 * Blogging @ [crinfarr.io](https://crinfarr.io)

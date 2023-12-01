@@ -1,6 +1,6 @@
 [![Crinfarr's GitHub stats](https://github-readme-stats.vercel.app/api?username=crinfarr&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[Top Langs](https://api.githubtrends.io/user/svg/Crinfarr/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)
+![Top Langs](https://api.githubtrends.io/user/svg/Crinfarr/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)
 
 Currently working on:
 * Coding for my job (finally)

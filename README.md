@@ -1,4 +1,4 @@
-![Top Langs](https://api.githubtrends.io/user/svg/Crinfarr/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crinfarr)](https://github.com/anuraghazra/github-readme-stats)
 
 Currently working on:
 * Coding for my job
